@@ -4,4 +4,9 @@ Ini adalah tugas kelompok PRG4 yang beranggotakan
 3. reva
 4. qonitah
 
+<<<<<<< HEAD
 Menambahkan teks 2(Ninda)
+=======
+
+Menambahkan teks 1 (Aurel)
+>>>>>>> 6af1f45a463398a461e7f34fd1634db3fc855cd1
