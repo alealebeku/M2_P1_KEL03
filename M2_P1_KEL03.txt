@@ -9,4 +9,6 @@ Menambahkan teks 2(Ninda)
 =======
 
 Menambahkan teks 1 (Aurel)
->>>>>>> 6af1f45a463398a461e7f34fd1634db3fc855cd1
+>>>>>>> 
+
+Ini kita lagi belajar git bareng-bareng yaa (Qonitah)
