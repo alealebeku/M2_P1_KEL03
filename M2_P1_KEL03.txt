@@ -12,3 +12,5 @@ Menambahkan teks 1 (Aurel)
 >>>>>>> 
 
 Ini kita lagi belajar git bareng-bareng yaa (Qonitah)
+
+Menambahkan teks 3 (Reva)
